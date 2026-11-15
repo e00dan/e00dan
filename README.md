@@ -1,6 +1,6 @@
 ### Hi, I'm Daniel 👋
 
-Software engineer in Warsaw, Poland. I've been building on blockchains since 2017, mostly in Solidity, Rust and TypeScript.
+Software engineer since 2016. I've been building on blockchains since 2017, mostly in Solidity, Rust and TypeScript.
 
 > **From 02/2024 to 10/2026 I worked at LayerZero from my work account, [@DanL0](https://github.com/DanL0).** My commits from that period are there, not here, which is why this profile looks quiet for those years.
 
